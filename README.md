@@ -7,7 +7,8 @@ FEATURES:
 ·Moving a grouped card out of the Table (another pile, discarding, deleting, etc.) will ungroup only that card automatically.
 
 HOW TO INSTALL:
-Once Arkham Module is installed within OCTGN, unzip [AHLCG.zip]([https://github.com/NMisut/arkham-horror/releases/download/release/a6d114c7-2e2a-4896-ad8c-0330605c90bf.zip](https://github.com/NMisut/arkham-horror/releases/download/1.1/AHLCG.zip)) into:
+Once Arkham Module is installed within OCTGN, unzip [AHLCG.zip](https://github.com/NMisut/arkham-horror/releases/download/1.1/AHLCG.zip) onto:
+
 %userprofile%\AppData\Local\Programs\OCTGN\Data\GameDatabase\a6d114c7-2e2a-4896-ad8c-0330605c90bf
 
 This will overwrite the original module script files so to revert to the original module, the following steps are required:
