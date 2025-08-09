@@ -2,9 +2,9 @@
 Arkham Horror LCG module for OCTGN improvement with:
 
 FEATURES:
-·Group / Ungroup Table Cards.
-·Move entire group of cards just dragging one of them.
-·Moving a grouped card out of the Table (another pile, discarding, deleting, etc.) will ungroup only that card automatically.
+- Group / Ungroup Table Cards.
+- Move entire group of cards just dragging one of them.
+- Moving a grouped card out of the Table (another pile, discarding, deleting, etc.) will ungroup only that card automatically.
 
 HOW TO INSTALL:
 Once Arkham Module is installed within OCTGN, unzip [AHLCG.zip](https://github.com/NMisut/arkham-horror/releases/download/1.1/AHLCG.zip) onto:
